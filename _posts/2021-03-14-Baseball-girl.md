@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "吾尔金朱来啦"
+title:  "不喜欢笑的棒球手不是一个好画家"
 image: assets/images/IMG_5679.JPG
 featured: true
 ---
 
-## 不喜欢笑的棒球手不是一个好画家
+## 吾尔金朱来啦
 你好呀！
 
 我是吾尔金朱，加入强棒基地已经有半年啦。
